@@ -65,8 +65,4 @@ Oyun Sırası: Oyuncular sırayla savaşçılarını seçer ve yerleştirir. Her
 Katkıda Bulunma
 Herhangi bir hata veya öneri için lütfen bir sorun açın veya katkıda bulunun. Projeye katkıda bulunmak için aşağıdaki adımları takip edebilirsiniz:
 
-Projeyi fork edin.
-Yeni bir dal oluşturun (git checkout -b feature/YourFeature).
-Değişikliklerinizi yapın ve commit edin (git commit -m 'Add some feature').
-Dalınızı push edin (git push origin feature/YourFeature).
-Bir pull isteği oluşturun.
+
